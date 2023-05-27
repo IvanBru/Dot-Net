@@ -1,0 +1,15 @@
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\bin\Debug\net6.0\L_Hello.exe
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\bin\Debug\net6.0\L_Hello.deps.json
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\bin\Debug\net6.0\L_Hello.runtimeconfig.json
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\bin\Debug\net6.0\L_Hello.dll
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\bin\Debug\net6.0\L_Hello.pdb
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\L_Hello.csproj.AssemblyReference.cache
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\L_Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\L_Hello.AssemblyInfoInputs.cache
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\L_Hello.AssemblyInfo.cs
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\L_Hello.csproj.CoreCompileInputs.cache
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\L_Hello.dll
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\refint\L_Hello.dll
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\L_Hello.pdb
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\L_Hello.genruntimeconfig.cache
+D:\Универ\Магистр\Семестр 2\.Net\Labs\Lab1\L_Hello\L_Hello\obj\Debug\net6.0\ref\L_Hello.dll
